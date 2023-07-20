@@ -1,4 +1,4 @@
 # OIBSIP_Taskno2
 It is portfolio
 
-https://tanishamaurya.github.io/OIBSIP_Taskno2/
+https://portfolio-1202.netlify.app
